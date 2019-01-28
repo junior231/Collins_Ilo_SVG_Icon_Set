@@ -1,12 +1,12 @@
-(() => {
+// (() => {
 
 
  
-	var icons = document.querySelectorAll('img');
+// 	var icons = document.querySelectorAll('img');
 
  
-	console.log(icons)
+// 	console.log(icons)
 
 
  
-})();
+// })();
