@@ -4,6 +4,9 @@
 	 y="0px" viewBox="0 0 369.19 344.33" style="enable-background:new 0 0 369.19 344.33;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#0000FF;}
+	
+	#soccerjersey:hover .st0 { fill: #000; }
+
 </style>
 <image style="overflow:visible;" width="980" height="914" id="jersey" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA9QAAAOSCAYAAACV1Zj1AAAABGdBTUEAALGPC/xhBQAAAAFzUkdC
 AK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dE

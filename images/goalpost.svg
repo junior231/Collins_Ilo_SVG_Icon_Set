@@ -4,6 +4,9 @@
 	 viewBox="0 0 346.66 158.81" style="enable-background:new 0 0 346.66 158.81;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#F2AEF4;}
+
+	#goalpost:hover .st0 { fill: blue; }
+
 </style>
 <g id="post_outline">
 	<g id="post_steps_1_">

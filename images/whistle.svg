@@ -4,6 +4,9 @@
 	 viewBox="0 0 352.96 208.06" style="enable-background:new 0 0 352.96 208.06;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FF00FF;}
+
+	#whistle:hover .st0 { fill: #000; }
+
 </style>
 <g id="whistle_outline">
 	<g id="steps_1_">
