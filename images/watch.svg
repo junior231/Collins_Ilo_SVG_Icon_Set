@@ -4,6 +4,9 @@
 	 viewBox="0 0 249 249" style="enable-background:new 0 0 249 249;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FF0000;}
+
+	#watch:hover .st0 { fill: blue; }
+
 </style>
 <image style="overflow:visible;" width="2000" height="2000" id="watch_outline" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB9AAAAfQCAYAAACaOMR5AAAABmJLR0QA/wD/AP+gvaeTAAAgAElE
 QVR4nOzZsQ2AMAADwYfFIZtTpKdNIt1N4NLSXwEAnOutntUjAACAX6P53QEAYHv36gEAAAAAAAAA

@@ -4,6 +4,9 @@
 	 viewBox="0 0 148 132.9" style="enable-background:new 0 0 148 132.9;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+
+	#Football:hover .st0 { fill: purple; }
+
 </style>
 <g id="ball_and_circle">
 	<ellipse id="outer_circle" class="st0" cx="74" cy="66.45" rx="72.5" ry="64.95"/>

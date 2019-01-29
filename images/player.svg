@@ -4,6 +4,9 @@
 	 viewBox="0 0 239 239" style="enable-background:new 0 0 239 239;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#0000FF;stroke-width:3;stroke-miterlimit:10;}
+
+	#player:hover .st0 { fill: green; }
+
 </style>
 <image style="overflow:visible;" width="512" height="512" id="player_outline" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIABAMAAAAGVsnJAAAABGdBTUEAALGPC/xhBQAAAAFzUkdC
 AK7OHOkAAAAodEVYdHN2ZzpiYXNlLXVyaQBmaWxlOi8vL3RtcC9tYWdpY2stY053UHFOY2meCNrq

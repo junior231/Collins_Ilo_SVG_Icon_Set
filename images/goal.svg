@@ -4,6 +4,9 @@
 	 viewBox="0 0 301 301" style="enable-background:new 0 0 301 301;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#0000FF;}
+	
+	#goalpost:hover .st0 { fill: green; }
+	
 </style>
 <image style="overflow:visible;" width="512" height="512" id="post_outline" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AACJdUlEQVR42u19CZxcVZW+oavTleqy
 WGQTAhOTTndtvWcn0UYc3MZ1HGHUAZWAMiKC/p1RxD04Krgg7o6AjiKOicKIGiBhUZRyAqKio4Lg

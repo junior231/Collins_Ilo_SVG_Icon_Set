@@ -14,79 +14,35 @@
 	margin: 0 auto;
 }
 
-#mainHeader
-{
+
+#mainNav ul {
 	display: flex;
 	flex-direction: row;
+	margin-bottom: 40px;
 }
 
-
-#mainNav
-{
-	height: 45px;
-	width: 650px;
-	/*background-color: #23550B;*/
-	margin-top: 20px;
+#mainNav ul li a{
+	display: block;
+	color: blue;
+	text-decoration: none;
+	margin-left: 30px;
+	margin-top: 10px;
+	padding: 10px;
+	transition: all .5s ease;
 }
 
-#mainNav ul li {
-	display: inline;
-	font-size: 30px;
-	color: #ffffff;
+#mainNav ul li a:hover {
+	background-color: #73b2e2;
+	color: purple;
+	border-radius: 10px;
 }
-
 
 .iconContainer{
 	width: 960px;
-	margin-top: 40px;
+	margin: auto;
 }
 
-#goalpost{
-	width: 200px;
-	height: 100px;
-}
-
-#soccerBoot{
-	width: 200px;
-	height: 100px
-}
-
-#soccerFans{
-	width: 200px;
-	height: 100px;
-}
-
-#whistle{
-	width: 200px;
-	height: 100px;
-}
-
-#footBall{
-	width: 200px;
-	height: 100px;
-}
-
-#linesMan{
-	width: 200px;
-	height: 100px;
-}
-
-#jersey{
-	width: 200px;
-	height: 100px;
-}
-
-#watch{
-	width: 200px;
-	height: 100px;
-}
-
-#player{
-	width: 200px;
-	height: 100px;
-}
-
-#goal{
+.post, .boot, .fans, .the-whistle, .ball, .referee, .the-jersey, .the-watch, .the-player, .the-goal {
 	width: 200px;
 	height: 100px;
 }

@@ -4,21 +4,13 @@
 	 viewBox="0 0 339.99 155.03" style="enable-background:new 0 0 339.99 155.03;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#0000FF;}
+
+	#soccerboot:hover .st0 { fill: purple; }
+
 </style>
 <g id="boot_outline">
 	<defs>
 		
-		<script>let soccerBoot = document.querySelector(&quot;button&quot;);
-
-		function logsoccerBoot() {
-
-			console.log(this.id);
-
-		}
-
- 
-		soccerBoot.addEventListener(&quot;Select Icon&quot;, logsoccerBoot);
-			</script>
 	</defs>
 	<g id="steps_1_">
 		<g>
